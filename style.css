@@ -2,3 +2,5 @@ body {background-color: powderblue; color: aqua;}
 
 .topo {display: flex;
 }
+
+.alunos{display: inline-block;}
