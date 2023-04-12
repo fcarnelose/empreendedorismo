@@ -1,6 +1,7 @@
 body {background-color: powderblue; color: rgb(12, 12, 12);}
 
 .topo {display: flex;
+    justify-content: space-around;    
 }
 
 .alunos{display: inline-block;}
