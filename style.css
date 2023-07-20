@@ -10,7 +10,7 @@ body {background-color: #323247;
     padding: 24px 0;
     background-image: url(./formula.png);}
 
-.logo{ width: 15%;}
+.logo{ width: 10%;}
 
 .botao{
     border-radius: 20px;
@@ -21,7 +21,7 @@ body {background-color: #323247;
     transform: none;
     width: 100px;
     background-color: #4730cccc;
-    height: 30px;
+    height: 40px;
     }
 
     .caixatexto{
@@ -32,7 +32,9 @@ body {background-color: #323247;
         transform: none;
         border-radius: 15px;
         font-family: 'Roboto Slab', serif;
-        background-color: black;}
+        background-color: black;
+        height: 25px;    
+    }
  .cadastro{display: flex;}       
  .aluno{margin: auto;}
  .clica{width: 40%;}
@@ -48,8 +50,21 @@ body {background-color: #323247;
         .textocorpo{justify-content: space-around;}
 
         .imgcorpo{
-            width: 70%;
+            width: 50%;
         }
    
-    .professor{width: 10%;}
+    .professor{width: 7%;}
     .icone{width: 30px;}
+
+
+    .textocabecalho{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .login{
+        margin: 30px;
+        top: auto;
+
+    
+    }
